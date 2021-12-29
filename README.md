@@ -1,6 +1,8 @@
 # OutSystem_EDS
 
-Link Vidio : https://drive.google.com/drive/folders/1YggmmI6HJ1sChRqgY6m8QDI9Q5QeXDBM?usp=sharing
+Using Widgets Exercise : https://drive.google.com/file/d/1F-YjkR6n7qmIsf9qnxA9Yv1UKBJqVzKQ/view?usp=sharing
+
+Data Modeling Exercise : https://drive.google.com/file/d/1UzwMyO8uezkhAgTXkgsIHEJDEJubzLQc/view?usp=sharing
 
 Logic Exercise : https://youtu.be/ZRZb4wWJgbY
 
